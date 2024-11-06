@@ -10,7 +10,7 @@ while True:
     if menu == '1':
         ad.tampilkan(data)
         while True:
-            id = int(input("Masukkan ID barang untuk tambah ke keranjang (0 untuk kembali): "))
+            id = int(input("Masukkan ID barang untuk ditambah ke keranjang (0 untuk kembali): "))
             if id == 0:
                 break
             ad.tambah_keranjang(id)

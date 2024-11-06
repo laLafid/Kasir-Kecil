@@ -15,7 +15,7 @@ def tambah_keranjang(id):
     if barang:
         jumlah = int(input(f"Masukkan jumlah {barang['nama']} yang ingin ditambahkan: "))
         keranjang.append({'id': barang['id'], 'nama': barang['nama'], 'harga': barang['harga'], 'jumlah': jumlah})
-        print(f"{jumlah}x {barang['nama']} berhasil ditambahkan ke keranjang")
+        print(f"{jumlah}x {barang['nama']} berhasil ditambahkan ke keranjang!")
     else:
         print("Barang tidak ditemukan.")
 
