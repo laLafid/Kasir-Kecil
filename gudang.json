@@ -1,0 +1,34 @@
+{
+    "gudang": [
+      {
+        "id": 1,
+        "nama": "Mie Instant",
+        "harga": 5000
+      },
+      {
+        "id": 2,
+        "nama": "Promagg",
+        "harga": 3000
+      },
+      {
+        "id": 3,
+        "nama": "Susu Ultra",
+        "harga": 2000
+      },
+      {
+        "id": 4,
+        "nama": "Kola",
+        "harga": 7000
+      },
+      {
+        "id": 5,
+        "nama": "Roti Tawar",
+        "harga": 5000
+      },
+      {
+        "id": 5,
+        "nama": "Sabun Mandi",
+        "harga": 6000
+      }
+    ]
+  }
