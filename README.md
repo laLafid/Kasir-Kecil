@@ -34,3 +34,4 @@ Ini adalah program kasir untuk memilih, menambah barang, menghitung total dan me
 
 4. **Selesai**
 
+2
