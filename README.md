@@ -33,3 +33,7 @@ Ini adalah program kasir untuk memilih, menambah barang, menghitung total dan me
    - **Jika pilihan tidak valid**: Pesan error akan diprint dan kembali ke menu.
 
 4. **Selesai**
+
+### !!!Penting!!!
+Ketiga file tersebut harus berada di 1 tempat/folder yang sama.
+ini hanya pengingat.
