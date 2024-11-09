@@ -33,5 +33,3 @@ Ini adalah program kasir untuk memilih, menambah barang, menghitung total dan me
    - **Jika pilihan tidak valid**: Pesan error akan diprint dan kembali ke menu.
 
 4. **Selesai**
-
-2
